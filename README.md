@@ -22,4 +22,4 @@ This project implements an end-to-end pipeline for performing face detection on 
 
 ## Notes
 
-This repository is intended to present the architecture and design of the project only. Source code is not shared due to institutional or confidentiality guidelines.
+This repository is intended to present the architecture and design of the project only. Source code is not shared online due to course guidelines. Please contact me for the code.
