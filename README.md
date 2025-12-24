@@ -170,7 +170,5 @@ Ensure messages are consumed and deleted to avoid repeated triggering and unnece
 
 This repository is intended to present the architecture and design of the project only. Source code is not shared online due to course guidelines. Please contact me for the code.
 
-:contentReference[oaicite:0]{index=0}
-
 
 
